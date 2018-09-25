@@ -4,3 +4,4 @@
  Referrer-Policy: no-referrer
  X-Content-Type-Options: nosniff
  Expect-CT: max-age=0, report-uri="https://webrage.report-uri.com/r/d/ct/readonly"
+ Content-Security-Policy: script-src 'self'
