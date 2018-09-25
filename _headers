@@ -3,3 +3,4 @@
  X-XSS-Protection: 1; mode=block
  Referrer-Policy: no-referrer
  X-Content-Type-Options: nosniff
+ Expect-CT: max-age=30, report-uri="https://webrage.report-uri.com/r/d/ct/readonly"
